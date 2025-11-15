@@ -1,8 +1,27 @@
-# React + Tailwind
+🎬 Filmography App — React & TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. One top of the standard Vite setup, [tailwindcss](https://tailwindcss.com/) is installed and ready to be used in React components.
+This is a small project I made to practice React (JavaScript) and TailwindCSS.
+The app shows a basic filmography with movie cards and a simple layout while I learn how components, props, and styling work together.
 
-Additional references:
-* [Getting started with Vite](https://vitejs.dev/guide/)
-* [Tailwind documentation](https://tailwindcss.com/docs/installation)
+✨ What I practiced
 
+Creating and organizing React components
+
+Passing props and rendering movie data
+
+Styling with TailwindCSS
+
+Making a responsive layout
+
+Improving my JavaScript and React basics
+
+🛠️ Tech Used
+
+React (JS)
+
+TailwindCSS
+
+📚 Purpose
+
+This project is just for learning and experimenting with React and Tailwind.
+I’ll keep improving it as I learn more.
